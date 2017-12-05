@@ -1,3 +1,1 @@
 # mdimitrova-coursework
-
-Hello
